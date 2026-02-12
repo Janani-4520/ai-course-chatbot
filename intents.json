@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "tag": "course_info",
+      "patterns": ["What is digital marketing?", "Tell me about the course", "Course details"],
+      "responses": ["Digital Marketing is a course that teaches SEO, SEM, Social Media Marketing, and Google Ads."]
+    },
+    {
+      "tag": "duration",
+      "patterns": ["What is the duration?", "How long is the course?", "Course length"],
+      "responses": ["The course duration is 3 months with practical training."]
+    },
+    {
+      "tag": "fees",
+      "patterns": ["What is the fee?", "Course cost?", "How much does it cost?"],
+      "responses": ["The course fee is ₹25,000 with EMI options available."]
+    }
+  ]
+}
